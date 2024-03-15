@@ -1,1 +1,0 @@
-// The difference between tailwind css with the traditional approach is that with Tailwind, you style elements by applying pre-existing classes directly in your HTML
